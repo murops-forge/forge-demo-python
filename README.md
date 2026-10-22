@@ -27,3 +27,5 @@ docker run --rm -p 8080:8080 app
 - `sonar`: SonarCloud analysis, the quality gate fails the job on pull requests. Skipped when the organization has no `SONAR_TOKEN`
 
 These are the checks Forge requires on `main` and `homol`.
+
+Created by Forge from `template-api-python`.
